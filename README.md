@@ -20,6 +20,4 @@ Python code in this repository is distributed under MIT license.
 
 ## Disclaimer
 
-This repository is only for the collection of the dictionary data. The owner of this repository does not contribute to the word list itself. To the knowledge of the owner of this repository, the data is not fully accurate.
-
 The link of the word list is now broken. If you are interested in a more up-to-date word list, see [rime/rime-cantonese](https://github.com/rime/rime-cantonese).
